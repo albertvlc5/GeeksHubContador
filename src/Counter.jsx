@@ -1,4 +1,6 @@
 import React from 'react';
+import './Counter.css';
+
 class Counter extends React.Component {
     constructor(props) {
         super(props);
@@ -14,7 +16,10 @@ class Counter extends React.Component {
     }
 
     incrementar = (step = 1) => {
-        if (this.state.counter >= this.state.max) {
+        if (this.state.counter + this.state.step > this.state.max) {
+            // this.setState({
+            //     counter: this.state.max
+            // })
         } else {
             this.setState({
                 counter: this.state.counter += step
@@ -23,7 +28,10 @@ class Counter extends React.Component {
 
     }
     decrementar = (step = 1) => {
-        if (this.state.counter <= this.state.min) {
+        if (this.state.counter - this.state.step< this.state.min) {
+            // this.setState({
+            //     counter: this.state.min
+            // })
         } else {
             this.setState({
                 counter: this.state.counter -= step
