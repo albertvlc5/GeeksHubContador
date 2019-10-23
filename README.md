@@ -14,11 +14,7 @@ con un valor maximo y minimo de 10.
 
 
 
-
 ![GIF](https://github.com/albertvlc5/GeeksHubContador/blob/master/contador.gif?raw=true)
-
-
-
 
 **Tecnologias utilizadas:**
 
