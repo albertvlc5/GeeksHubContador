@@ -15,7 +15,7 @@ con un valor maximo y minimo de 10.
 
 
 
-![GIF](https://raw.githubusercontent.com/albertvlc5/GeeksHubsProyecto/master/musiCloud.gif)
+![GIF](https://github.com/albertvlc5/GeeksHubContador/blob/master/contador.gif?raw=true)
 
 
 
