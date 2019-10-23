@@ -7,9 +7,13 @@
 >
 
 Contadores de adultos,
+
 a traves de dos botones para incrementar y decrementar,
+
 con posibilidad de insertar steps variantes,
+
 restricción de plurales y singulares,
+
 con un valor maximo y minimo de 10.
 
 
